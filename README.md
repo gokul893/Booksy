@@ -4,7 +4,7 @@ Booksy 📚
 
 
 ## Live Demo
-> Deployed on Netlify: [<https://booksy.netlify.app>](https://b00ksy.netlify.app/)
+> Deployed on Netlify: https://b00ksy.netlify.app/
 
 ## Tech Stack
 - **Frontend:** React JS, Tailwind CSS  
